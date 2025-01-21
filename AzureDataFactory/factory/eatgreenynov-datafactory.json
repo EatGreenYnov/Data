@@ -3,7 +3,7 @@
 	"properties": {
 		"globalConfigurations": {
 			"PipelineBillingEnabled": "true",
-			"PolicyValidationEnabled": "true"
+			"PolicyValidationEnabled": "false"
 		}
 	},
 	"location": "germanywestcentral",
