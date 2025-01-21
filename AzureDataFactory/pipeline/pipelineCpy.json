@@ -1,9 +1,11 @@
 {
-	"name": "pipeline1",
+	"name": "pipelineCpy",
 	"properties": {
+		"description": "copie les fichier de git hub DATA vers Cosmos DB",
 		"activities": [
 			{
 				"name": "CpyPredictToAZDB",
+				"description": "fetch les prediction*.csv",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
