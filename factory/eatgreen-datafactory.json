@@ -1,9 +1,0 @@
-{
-	"name": "eatgreen-datafactory",
-	"location": "germanywestcentral",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "25d87b32-069b-4ca0-adfa-5312716f4765",
-		"tenantId": "5cc1be24-069a-4c08-8e6d-c174a66e0eba"
-	}
-}
