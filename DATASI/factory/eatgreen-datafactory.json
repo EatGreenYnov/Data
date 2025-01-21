@@ -1,0 +1,9 @@
+{
+	"name": "eatgreen-datafactory",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "germanywestcentral"
+}
