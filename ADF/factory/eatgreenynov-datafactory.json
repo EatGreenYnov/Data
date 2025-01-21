@@ -1,9 +1,0 @@
-{
-	"name": "eatgreenynov-datafactory",
-	"location": "germanywestcentral",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "a771555f-d5a9-42d0-ac55-3058ae87ac47",
-		"tenantId": "5cc1be24-069a-4c08-8e6d-c174a66e0eba"
-	}
-}
