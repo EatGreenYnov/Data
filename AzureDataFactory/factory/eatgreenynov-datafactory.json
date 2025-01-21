@@ -2,7 +2,8 @@
 	"name": "eatgreenynov-datafactory",
 	"properties": {
 		"globalConfigurations": {
-			"PipelineBillingEnabled": "true"
+			"PipelineBillingEnabled": "true",
+			"PolicyValidationEnabled": "true"
 		}
 	},
 	"location": "germanywestcentral",
