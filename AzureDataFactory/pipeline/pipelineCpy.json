@@ -32,7 +32,8 @@
 						"writeBatchTimeout": "00:30:00",
 						"writeBehavior": "insert"
 					},
-					"enableStaging": false
+					"enableStaging": false,
+					"enableSkipIncompatibleRow": true
 				},
 				"inputs": [
 					{
